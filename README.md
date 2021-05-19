@@ -22,8 +22,6 @@ Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Fa
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HaseebUllahAbbasi&show_icons=true&theme=dark)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HaseebUllahAbbasi)  
-
 ![GitHub metrics](https://metrics.lecoq.io/HaseebUllahAbbasi)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HaseebUllahAbbasi)  
