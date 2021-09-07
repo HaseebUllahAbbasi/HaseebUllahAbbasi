@@ -12,6 +12,7 @@ Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Fa
 - 👯 I’m looking to collaborate on **Java , Web Applicaiotions**  
 - 💬 Ask me about **Java & Full Stack Web Development  **.  
 - 📫 How to reach me **haseebabbasi00@gmail.com**
+![Profile views](https://gpvc.arturio.dev/HaseebUllahAbbasi)  
 
 
 
@@ -58,4 +59,3 @@ Languages and Tools:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HaseebUllahAbbasi)  
 
-![Profile views](https://gpvc.arturio.dev/HaseebUllahAbbasi)  
