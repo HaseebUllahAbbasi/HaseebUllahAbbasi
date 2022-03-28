@@ -5,7 +5,7 @@
 
 
 
-Skills: Linux | Java | Spring Boot | Spring | Git - Github | JavaScript | NodeJS  | React | C & C++ | Docker
+Skills:  Linux | Java | Spring Boot | Spring | Git - GitHub | JavaScript | NodeJS | React | Next JS |  Flutter | C & C++ | Docker 
 
 
 - 🔭 I’m currently working on  **SpringBoot & Full Stack Web Development**. 
