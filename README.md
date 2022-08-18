@@ -11,16 +11,9 @@ Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Fa
 - 🔭 I’m currently working on  **Full Stack | Web3**. 
 - 👯 I’m looking to collaborate on **Java | MERN **  
 - 💬 Ask me about **Full Stack | Web3**.
-- 💬 Love to discuss **Web3 | CI/CD **.
+- 🎉 Love to discuss **Web3 | CI/CD **.
 - 📫 How to reach me **haseebabbasi00@gmail.com**
 ![Profile views](https://gpvc.arturio.dev/HaseebUllahAbbasi)  
-
-
-    [<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/haseebullahabbasi)      [<img src='https://img.icons8.com/nolan/64/linkedin-circled.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/haseebullahabbasi)    [<img src='https://img.icons8.com/nolan/64/facebook-new.png' alt='facebook' height='40'>](https://www.facebook.com/haseebabbasi.562)     [<img src='https://img.icons8.com/nolan/64/twitter-circled.png' alt='twitter' height='40'>](https://twitter.com/haseebabbasi00/)    [<img src='https://img.icons8.com/nolan/64/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/haseebullah.562/)
-
-
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HaseebUllahAbbasi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/.../)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/...)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/.../)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/...)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](...)   -->
-
 
 
 <h3>Languages and Tools :</h3>
