@@ -8,9 +8,10 @@
 Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Family | Python | Docker
 
 
-- 🔭 I’m currently working on  **Full Stack Development and Web3**. 
-- 👯 I’m looking to collaborate on **Java , Web Applicaiotions**  
-- 💬 Ask me about **Java & Full Stack Web Development  **.  
+- 🔭 I’m currently working on  **Full Stack | Web3**. 
+- 👯 I’m looking to collaborate on **Java | MERN **  
+- 💬 Ask me about **Full Stack | Web3**.
+- 💬 Love to discuss **Web3 | CI/CD **.
 - 📫 How to reach me **haseebabbasi00@gmail.com**
 ![Profile views](https://gpvc.arturio.dev/HaseebUllahAbbasi)  
 
