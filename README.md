@@ -1,14 +1,3 @@
-<!--
-have to design the banner
-<p align="center">
-<a href="#">
-  <img src="./img/banner.gif"/>
-</a>
-</p>
-
--->
-
-
 <h1 align="center">Hi there 👋, It's me Haseeb Ullah</h1>
 
 <h4 align="center"> I am highly motivated and energetic Computer Science student who believe in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills. </h4>
