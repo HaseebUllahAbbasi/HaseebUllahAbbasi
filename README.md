@@ -39,9 +39,9 @@ have to design the banner
 
 <h2>🏆 Github Stats</h2>
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebullahabbasi&theme=dark&show_icons=true" alt="haseeb's Github Stats" width="45%"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=haseebullahabbasi&theme=dark" width="45%">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebullahabbasi&layout=compact&theme=dark&langs_count=10" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaseebUllahAbbasi&theme=dark&show_icons=true" alt="haseeb's Github Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaseebUllahAbbasi&theme=dark" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebUllahAbbasi&layout=compact&theme=dark&langs_count=10" width="40%">
 </p>
 
 <div align = "center">
