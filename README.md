@@ -49,6 +49,7 @@ have to design the banner
 **Visitors Count** 
 
 ![VisitorCount](https://profile-counter.glitch.me/{haseebullahabbasi}/count.svg)
+  <br/>
 ![Profile views](https://gpvc.arturio.dev/HaseebUllahAbbasi) ✌
 
 </div>
