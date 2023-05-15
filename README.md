@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, It's me Haseeb Ullah</h1>
 
-<h3 align="center" > Highly motivated and energetic CS Student,  believes in learning by solving challenging tasks, through online platforms and working among expert developers, Eager to perform valuable work using  skills. </h3>
+<h3 align="center" >Motivated and dynamic computer science professional with a strong commitment to continuous learning through the resolution of complex tasks. Seeking opportunities to collaborate with experienced developers and contribute valuable skills to impactful projects. </h3>
 <br/>
 
 <p align='center'> 🔭 I’m currently working on  **Full Stack | Web3**. </p>
