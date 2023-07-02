@@ -4,10 +4,10 @@
 <h3 align="center" >Motivated and dynamic computer science professional with a strong commitment to continuous learning through the resolution of complex tasks. Seeking opportunities to collaborate with experienced developers and contribute valuable skills to impactful projects. </h3>
 <br/>
 
-<p align='center'> 🔭 I’m currently working on  **Full Stack | Web3**. </p>
-<p align='center'> 👯 I’m looking to collaborate on **JAVA | MERN**. </p>
-<p align='center'> 💬 Ask me about **JAVA | MERN**. </p>
-<p align='center'>  🎉 Love to discuss **WEB3 | CI/CD**. </p>
+<p align='center'> 🔭 I’m currently working on  **System Design | Design Patterns**. </p>
+<p align='center'> 👯 I’m looking to collaborate on **Full Stack| Blockchain**. </p>
+<p align='center'> 💬 Ask me about **Full-Stack | System Design**. </p>
+<p align='center'>  🎉 Love to discuss **WEB3 | System Design | DevOps Automation**. </p>
 <p align='center'>  📫 How to reach me **haseebabbasi00@gmail.com** </p>
 
 <!-- Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Family | Python | Docker -->
