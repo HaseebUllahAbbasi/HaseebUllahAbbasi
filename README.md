@@ -5,13 +5,14 @@
 <br/>
 
 <p align='center'> 🔭 I’m currently working on  **System Design | Design Patterns**. </p>
-<p align='center'> 👯 I’m looking to collaborate on **Full Stack| Blockchain**. </p>
+<p align='center'> 👯 I’m looking to collaborate on **Full Stack| Blockchain | Machine Learning **. </p>
 <p align='center'> 💬 Ask me about **Full-Stack | System Design**. </p>
 <p align='center'>  🎉 Love to discuss **WEB3 | System Design | DevOps Automation**. </p>
-<p align='center'>  📫 How to reach me **haseeb.se.dev@gmail.com** </p>
-
-<!-- Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Family | Python | Docker -->
-
+<p align='center'>  📫 How to reach me **
+<b>
+haseeb.se.dev@gmail.com
+</b>** </p>
+s
 <br>
 
 <br>
@@ -58,24 +59,20 @@
   
  </p>
 <br/>
-<h2 align="center">🏆 Github Stats</h2>
+<h2 align="center">🏆 GitHub Stats</h2>
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=HaseebUllahAbbasi&theme=dark&show_icons=true&count_private=true" alt="haseeb's Github Stats" width="45%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=haseebullahabbasi&theme=dark" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebUllahAbbasi&layout=compact&theme=dark&langs_count=10" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HaseebUllahAbbasi&theme=dark&show_icons=true&count_private=true" alt="Haseeb's GitHub Stats" width="42.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=haseebullahabbasi&theme=dark" width="45%"/>
 </p>
 
-<div align = "center">
-
-**Visitors Count**
-<!-- 
-![VisitorCount](https://profile-counter.glitch.me/{haseebullahabbasi}/count.svg) -->
-  
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebUllahAbbasi&layout=compact&theme=dark&langs_count=10" width="50%"/>
+</p>
 
-![Profile views](https://gpvc.arturio.dev/HaseebUllahAbbasi)
-  
-  </p>
-  <a href="https://www.buymeacoffee.com/haseebullah" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-  
+<div align="center">
+
+  <a href="https://www.buymeacoffee.com/haseebullah" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"/>
+  </a>
 </div>
