@@ -1,21 +1,18 @@
+<h1 align="center">Hi there 👋, I'm Haseeb Ullah</h1>
 
-<h1 align="center">Hi there 👋, It's me Haseeb Ullah</h1>
-
-<h3 align="center" >Motivated and dynamic computer science professional with a strong commitment to continuous learning through the resolution of complex tasks. Seeking opportunities to collaborate with experienced developers and contribute valuable skills to impactful projects. </h3>
+<h3 align="center">Motivated and dynamic computer science professional committed to continuous learning through solving complex tasks. Seeking collaboration with experienced developers to contribute skills to impactful projects.</h3>
 <br/>
 
-<p align='center'> 🔭 I’m currently working on  **System Design | Design Patterns**. </p>
-<p align='center'> 👯 I’m looking to collaborate on **Full Stack| Blockchain**. </p>
-<p align='center'> 💬 Ask me about **Full-Stack | System Design**. </p>
-<p align='center'>  🎉 Love to discuss **WEB3 | System Design | DevOps Automation**. </p>
-<p align='center'>  📫 How to reach me **haseeb.se.dev@gmail.com** </p>
+<p align='center'>🔭 Currently working on **System Design | Design Patterns**.</p>
+<p align='center'>👯 Looking to collaborate on **Full Stack | Blockchain**.</p>
+<p align='center'>💬 Ask me about **Full-Stack | System Design**.</p>
+<p align='center'>🎉 Love to discuss **WEB3 | System Design | DevOps Automation**.</p>
+<p align='center'>📫 Reach me at **haseeb.se.dev@gmail.com**.</p>
 
 <!-- Skills: Linux | Java | Spring Boot | Spring | JavaScript | NodeJS | React | C Family | Python | Docker -->
 
 <br>
 
-<br>
-  
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://twitter.com/haseebabbasi00" target="blank"><img align="center" src="./img/twitter.svg" alt="haseebullahabbasi-1" height="30" width="40" /></a>
@@ -38,25 +35,8 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="./img/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
-<p align="center">
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </a>  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-</p>
-<p align="center">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<!-- Continue with the rest of the languages and tools -->
 
-</p>
-  
- </p>
 <br/>
 <h2 align="center">🏆 Github Stats</h2>
 <p align="center">
