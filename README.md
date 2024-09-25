@@ -7,12 +7,12 @@
 <p align='center'> 🔭 I’m currently working on  **System Design | Design Patterns**. </p>
 <p align='center'> 👯 I’m looking to collaborate on **Full Stack| Blockchain | Machine Learning **. </p>
 <p align='center'> 💬 Ask me about **Full-Stack | System Design**. </p>
-<p align='center'>  🎉 Love to discuss **WEB3 | System Design | DevOps Automation**. </p>
+<p align='center'>  🎉 Love to discuss **WEB3 | System Design |  Automation**. </p>
 <p align='center'>  📫 How to reach me **
 <b>
 haseeb.se.dev@gmail.com
 </b>** </p>
-s
+
 <br>
 
 <br>
